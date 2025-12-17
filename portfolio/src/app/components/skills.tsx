@@ -13,23 +13,23 @@ export default function Skills() {
     },
     {
       title: 'Frontend',
-      skills: ['Next.js', 'React.js', 'Tailwind CSS', 'shadcn/ui'],
+      skills: ['Next.js', 'React.js', 'Tailwind CSS', 'ui/ux Design','XML','Flutter' ],
     },
     {
       title: 'Backend',
-      skills: ['Node.js', 'Express.js', 'REST APIs'],
+      skills: ['Java', 'Express.js', 'REST APIs','Spring Boot' ],
     },
     {
       title: 'Databases',
-      skills: ['MySQL', 'MongoDB', 'Prisma ORM'],
+      skills: ['MySQL', 'MongoDB', 'PostgresSQL','Firebase','Redis','SQL'],
     },
     {
       title: 'Tools',
-      skills: ['Git', 'GitHub', 'VS Code', 'Postman'],
+      skills: ['Git', 'GitHub', 'VS Code', 'Postman','Android Studio','DBeaver','SonarQube','Spring Tool Suite'],
     },
     {
       title: 'Other',
-      skills: ['JWT Auth', 'Responsive Design', 'Custom Hooks', 'Recoil'],
+      skills: ['JWT Auth', 'Responsive Design', 'Custom Hooks', 'Recoil','Jenkins','JUnit Testing'],
     },
   ];
 

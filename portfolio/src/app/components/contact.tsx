@@ -87,13 +87,13 @@ export default function Contact() {
         {/* Contact Cards */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 mb-12">
           <a
-            href="mailto:akhileshpatil69@gmail.com"
+            href="mailto:nachiketbejagamwar@gmail.com"
             className="group bg-card rounded-lg p-6 md:p-8 border border-border hover:border-blue-500 hover:shadow-lg hover:shadow-blue-500/20 transition-all duration-300 text-center"
           >
             <Mail size={32} className="mx-auto mb-4 text-blue-400 group-hover:scale-110 transition-transform" />
             <h3 className="text-xl font-bold mb-2">Email</h3>
             <p className="text-muted-foreground mb-4 text-sm md:text-base break-words">
-              akhileshpatil69@gmail.com
+              nachiketbejagamwar@gmail.com
             </p>
             <div className="flex items-center justify-center gap-2 text-primary group-hover:gap-3 transition-all">
               Send Email <ArrowRight size={18} />
@@ -101,7 +101,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://linkedin.com/in/akhileshp19"
+            href="https://www.linkedin.com/in/nachiket-bejagamwar-n8766866552b?"
             target="_blank"
             rel="noopener noreferrer"
             className="group bg-card rounded-lg p-6 md:p-8 border border-border hover:border-purple-500 hover:shadow-lg hover:shadow-purple-500/20 transition-all duration-300 text-center"
@@ -115,7 +115,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://github.com/AkhileshP19"
+            href="https://github.com/BNachiket"
             target="_blank"
             rel="noopener noreferrer"
             className="group bg-card rounded-lg p-6 md:p-8 border border-border hover:border-pink-500 hover:shadow-lg hover:shadow-pink-500/20 transition-all duration-300 text-center"
