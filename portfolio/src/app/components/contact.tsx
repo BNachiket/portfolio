@@ -108,7 +108,7 @@ export default function Contact() {
           >
             <Linkedin size={32} className="mx-auto mb-4 text-purple-400 group-hover:scale-110 transition-transform" />
             <h3 className="text-xl font-bold mb-2">LinkedIn</h3>
-            <p className="text-muted-foreground mb-4">@akhileshp19</p>
+            <p className="text-muted-foreground mb-4">@nachiket-bejagamwar-n8766866552b?</p>
             <div className="flex items-center justify-center gap-2 text-primary group-hover:gap-3 transition-all">
               Connect <ArrowRight size={18} />
             </div>
@@ -122,7 +122,7 @@ export default function Contact() {
           >
             <Github size={32} className="mx-auto mb-4 text-pink-400 group-hover:scale-110 transition-transform" />
             <h3 className="text-xl font-bold mb-2">GitHub</h3>
-            <p className="text-muted-foreground mb-4">@AkhileshP19</p>
+            <p className="text-muted-foreground mb-4">@BNachiket</p>
             <div className="flex items-center justify-center gap-2 text-primary group-hover:gap-3 transition-all">
               Follow <ArrowRight size={18} />
             </div>
