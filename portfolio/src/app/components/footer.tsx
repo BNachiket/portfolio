@@ -55,7 +55,7 @@ export default function Footer() {
               Nachiket Bejagamwar
             </div>
             <p className="text-muted-foreground">
-              Full Stack Developer crafting modern web experiences with Next.js and React.
+              Full Stack Developer crafting modern web experiences with Next.js, React, and robust backend integrations.
             </p>
           </div>
 

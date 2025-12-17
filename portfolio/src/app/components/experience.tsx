@@ -19,15 +19,15 @@ export default function Experience() {
     {
       role: 'Software Developer Intern',
       company: 'tCognition',
-      period: 'Feb 2025 – Present',
+      period: 'Mar 2025 – Present',
       location: 'Kolhapur',
       description: [
-        'Contributed to UI development of XseedAI, an AI-powered ATS platform',
-        'Developed Video Resume Module with upload functionality',
-        'Built AI Assessment interfaces with video and technical assessment components',
-        'Designed Super Admin Module with organizational tree view',
-        'Created reusable UI components using shadcn/ui',
-      ],
+        'Contributed to backend development of XseedAI, an AI-powered ATS platform using Java Spring Boot',
+        'Designed and implemented RESTful APIs for Video Resume Module, including secure upload and storage handling',
+        'Developed backend services for AI Assessments, supporting video-based and technical evaluation workflows',
+        'Built Super Admin Module APIs with role-based access control and organizational hierarchy management',
+        'Implemented reusable service layers, DTOs, and repository patterns following clean architecture principles',
+      ]
     },
   ];
 
