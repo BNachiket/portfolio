@@ -29,6 +29,17 @@ export default function Experience() {
         'Implemented reusable service layers, DTOs, and repository patterns following clean architecture principles',
       ]
     },
+    {
+      role: 'Android Developer Intern',
+      company: 'iGap Technologies pvt. ltd.',
+      period: 'Jun 2024 – Aug 2024',
+      location: 'Kolhapur',
+      description: [
+        'Developed and optimized features for the flagship Android application using java and Android Studio,focusing on UI/UX enhancements and performance',
+        'Integrated RESTful APIs using Retrofit to fetch and display dynamic data, improving app functionality and user engagement',
+        'Technologies Used: Java, Android Studio, Retrofit, REST API, SQL Database, XML, Git',
+      ]
+    },
   ];
 
   const certifications: Certification[] = [
